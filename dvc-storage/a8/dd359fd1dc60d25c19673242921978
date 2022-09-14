@@ -1,0 +1,452 @@
+[
+  {
+    "document": "\nCurrently holding a faculty, industry, or government researcher position.\nPh.D. and publications in machine learning, AI, computer science, statistics, applied mathematics, data science, or related technical fields.\nExperience leading a team in solving analytical problems using quantitative approaches.\nExperience manipulating and analyzing data from different sources.\nExperience in theoretical and empirical research and for answering questions with research.\nAbility to communicate research for public audiences of peers.\nKnowledge in a programming language.\nAbility to obtain and maintain work authorization in the country of employment in 2018.\n\nPREFERRED \n1+ year(s) of work experience in a university, industry, or government lab(s), in a role with primary emphasis on AI research.\nExperience driving original scholarship in collaboration with a team.\nFirst-author publications at peer-reviewed AI conferences (e.g. NIPS, CVPR, ICML, ICLR, ICCV, and ACL).\nExperience in developing and debugging in C/C++, Python, C# and/or Java.",
+    "tokens": [
+      {
+        "text": "Ph.D.",
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "machine learning",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "AI",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "computer science",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "statistics",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "applied mathematics",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "data science",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "1+ year(s",
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "university",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "industry",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "government lab(s)",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "AI",
+        "entityLabel": "SKILLS"
+      }
+    ]
+  },
+  {
+    "document": "\n2+ years experience in the online advertising or research\nBS/BA Degree in Economics, Statistics, Political Science, History, Psychology\nExperience with presenting and partnering with technical and non-technical teams\nExperience communicating analyses and results to any audience\nExperience working with structured and unstructured data-sets, statistical software such as R, STATA, SPSS, SAS as well as data extraction tools such as Hive and/or SQL\n\nPREFERRED \nExperience with causal measurement, machine learning or lab-based research\nExperience in quantitative field, such as consulting, market research, strategy and planning, or user experience research\nStrong organizational and project management skills\nMasters in quantitative field or a MBA",
+    "tokens": [
+      {
+        "text": "2+ years",
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "online advertising",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "research",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "BS/BA",
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Economics",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Statistics",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Political Science",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "History",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Psychology",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Masters",
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "quantitative field",
+        "entityLabel": "DIPLOMA_MAJOR"
+      }
+    ]
+  },
+  {
+    "document": "\nBA/BS\n5+ years of program or project management experience\n2+ years of technical project/program management experience\nTrack record of operating independently\nExperience understanding user needs, gathering requirements, and defining scope\nCommunication experience interacting with a variety of audiences from engineers, to vendors, to research leaders\nTrack record of building cross-functional relationships\n\nPREFERRED \nExperience working with UX Research and/or UX Design",
+    "tokens": [
+      {
+        "text": "5+ years",
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "project management",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "2+ years",
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "technical project",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "program management",
+        "entityLabel": "SKILLS"
+      }
+    ]
+  },
+  {
+    "document": "\nCurrently enrolled in a full-time degree program and returning to the program after the completion of the internship.\nPublications or experience in fields related to in machine learning, AI, computer vision, natural language processing, computational neuroscience, optimization, computer science, statistics, applied mathematics, or data science.\nExperience solving analytical problems using quantitative approaches.\nAbility to manipulate and analyze large scale, high-dimensionality data from varying sources.\nExperience in utilizing theoretical and empirical research to solve problems.\nAbility to communicate research for public audiences of peers.\nKnowledge in a programming language.\nAbility to obtain and maintain work authorization in the country of employment in 2018.\n\nPREFERRED \nPursuing a Ph.D. degree in Computer Science or related field\nFirst-author publications at peer-reviewed AI conferences (e.g. NIPS, ICML, ICLR, CVPR, ICCV, ECCV, ACL, NAACL, and EMNLP).\nExperience building systems based on machine learning and/or deep learning methods.\nResearch and software engineer experience demonstrated via an internship, work experience, or coding competitions.\nKnowledge in Python, Lua, C++, C, C# and/or Java.",
+    "tokens": [
+      {
+        "text": "Ph.D.",
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Computer Science",
+        "entityLabel": "DIPLOMA_MAJOR"
+      }
+    ]
+  },
+  {
+    "document": "\nCurrently enrolled in a full-time degree program and returning to the program after the completion of the internship.\nPublications or experience in fields related to in machine learning, AI, computer vision, natural language processing, computational neuroscience, optimization, computer science, statistics, applied mathematics, or data science.\nExperience solving analytical problems using quantitative approaches.\nAbility to manipulate and analyze large scale, high-dimensionality data from varying sources.\nExperience in utilizing theoretical and empirical research to solve problems.\nAbility to communicate research for public audiences of peers.\nKnowledge in a programming language.\nAbility to obtain and maintain work authorization in the country of employment in 2019.\n\nPREFERRED \nPursuing a Ph.D. degree in Computer Science or related field.\nFirst-author publications at peer-reviewed AI conferences (e.g. NIPS, ICML, ICLR, CVPR, ICCV, ECCV, ACL, NAACL, and EMNLP).\nExperience building systems based on machine learning and/or deep learning methods.\nResearch and software engineer experience demonstrated via an internship, work experience, or coding competitions.\nKnowledge in Python, Lua, C++, C, C# and/or Java.\n",
+    "tokens": [
+      {
+        "text": "Ph.D.",
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Computer Science",
+        "entityLabel": "DIPLOMA_MAJOR"
+      }
+    ]
+  },
+  {
+    "document": "\nMS in a quantitative field such as Operations Research, Computer Science, Quantitative Finance, Math, Physics or a related Engineering degree\nKnowledge of Statistics & Probability (e.g. Hypothesis testing, Regression, Stochastic modeling, Markov Chains and etc.)\n7+ years experience in building models and developing algorithms for machine learning, statistics, mathematical programming, and simulation in industry and/or academia\n5+ years experience in managing and analyzing large-scale structured and unstructured data using R or Python\n7+ years experience with algorithms and optimizations using CPLEX or related tools\n7+ years experience in SQL and data modeling\n\nPREFERRED \nPhD in Operation Research or Industrial Engineering.\nFamiliarity with object-oriented programming languages (such as C++ or Java) and visualization tools (such as Tableau).\nExperience working with or in support of diverse communities.",
+    "tokens": [
+      {
+        "text": "MS",
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Operations Research",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Computer Science",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Quantitative Finance",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Math",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Physics",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Engineering",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "7+ years",
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "building models",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "developing algorithms",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "machine learning",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "statistics",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "mathematical programming",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "simulation",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "industry",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "academia",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "5+ years",
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "managing",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "analyzing large-scale structured and unstructured data",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "R",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "Python",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "7+ years",
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "algorithms",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "optimizations",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "CPLEX",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "7+ years",
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "SQL",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "data modeling",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "PhD",
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Operation Research",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Industrial Engineering",
+        "entityLabel": "DIPLOMA_MAJOR"
+      }
+    ]
+  },
+  {
+    "document": "\nPh.D. with 5+ years of experience, MS with 7+ years of experience, or BS with 10+ years of experience in Physics, Electrical Engineering, Computer Science, or a related technical field such us architecting, developing, and launching hardware/software projects and/or services\nDemonstrated knowledge dissemination through authored publications, international conference presentations or shipped products\nML/AI basics, and systems basics, including the requisite programming experience (python or equivalent, and at least one systems-level programming language: C, C++, Java, Go, Rust, or equivalent)\nExperience with data analytics  (data collection, storage, cleaning, processing with statistics, visualization, and other data related processes)\nExperience working on communication systems in a research and/or development capacity\nTechnical leadership in leading research efforts with a demonstrated experience handling multiple priorities\n\nPREFERRED \nDeep understanding of how culture and team dynamics create exceptional teams",
+    "tokens": []
+  },
+  {
+    "document": "\nGraduating with a Ph.D. in Computer Science or related field or relevant experience.\nFirst-author publications at peer-reviewed AI conferences (e.g. NIPS, CVPR, ICML, ICLR, ICCV, and ACL).\nExperience leading a team in solving analytical problems using quantitative approaches.\nExperience manipulating and analyzing data from different sources.\nExperience in leading theoretical and empirical research and for answering questions with research.\nExperience communicating research for public audiences of peers.\nKnowledge in a programming language.\nMust be able to obtain and maintain work authorization in the country of employment in 2018.\n\nPREFERRED \nPrevious internship(s) and/or research assistantship(s) in an AI research organization.\nExperience in developing and debugging in C/C++, Python, C# and/or Java.\nHas previously completed a postdoctoral role in AI research.",
+    "tokens": [
+      {
+        "text": "Ph.D.",
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Computer Science",
+        "entityLabel": "DIPLOMA_MAJOR"
+      }
+    ]
+  },
+  {
+    "document": "\n12+ years of research experience, in-house or as a vendor (including applicable consulting experience)\nPh.D in human-computer interaction, human factors, cognitive psychology or related field\nUser safety demonstrated knowledge through authored publications, international conference presentations or shipped products\nExperience collaborating and working across teams to develop concepts that advance the entire product pipeline (hardware, software, computer vision, etc.)",
+    "tokens": [
+      {
+        "text": "12+ years",
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "research",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "Ph.D",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "human-computer interaction",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "human factors",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "cognitive psychology",
+        "entityLabel": "DIPLOMA_MAJOR"
+      }
+    ]
+  },
+  {
+    "document": "\nPhD with 3+ years, or MS with 5+ years of experience in a field emphasizing people research in organizations (e.g., Industrial/Organizational Psychology, Organizational Behavior, Labor Economics, Management, Policy Analysis, etc.)\n3+ years of experience conducting quantitative people research in an organization or consulting environment, including working with stakeholders to understand and clarify their people research needs, and communicating analyses to technical and non-technical audiences\nExperience managing and analyzing structured and unstructured data\nExperience communicating technical results to technical and non-technical audiences\nExperience operating in a consultative capacity with stakeholders\nExperience defining a roadmap of data requirements, metrics reporting, and research to drive insights\nExperience in communicating and weaving together multiple data sources and deliver insights to stakeholders\nKnowledge of statistical analysis (e.g., descriptive statistics and knowledge with statistical significance), quantitative research, and experience gathering and interpreting data\n\nPREFERRED \n3+ years of experience applying multivariate statistical methods to people research problems in organizations\n5+ years of progressive consulting or corporate work experience focused on using data to uncover insights that drive action and communicating analyses to technical and non-technical audiences\nRelevant experience includes analytics, management consulting, sales operations, finance, compensation, or related fields\nPeople management experience\nExperience developing tools, conducting empirical research, practical implementation, knowledge of best practices in at least two of the following areas: employee engagement, performance management, diversity, compensation (e.g., pay equity), or retention\nExperience conceiving, developing, running pilot tests, implementing, and continuously improving large-scale people processes\nExperience managing and analyzing structured and unstructured data with R and SQL",
+    "tokens": [
+      {
+        "text": "5+ years",
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "emphasizing people research in organizations",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "Industrial",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "Organizational Psychology",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "Organizational Behavior",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "Labor Economics",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "Management",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "Policy Analysis",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "3+ years",
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "conducting quantitative people research",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "working with stakeholders",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "communicating",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "3+ years",
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "statistical methods",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "5+ years",
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "progressive consulting",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "corporate work experience",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "using data to uncover insights that drive action",
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "communicating",
+        "entityLabel": "SKILLS"
+      }
+    ]
+  },
+  {
+    "document": "\nCurrently holding a faculty, industry, or government researcher position.\nPh.D. and publications in machine learning, AI, computer science, statistics, applied mathematics, data science, or related technical fields.\nExperience leading a team in solving analytical problems using quantitative approaches.\nExperience solving analytical problems using quantitative approaches.\nExperience manipulating and analyzing data from different sources.\nExperience in theoretical and empirical research and for answering questions with research.\nAbility to communicate research.\nKnowledge in some programming language.\nTraduction franaise -  minimales:\nOccuper actuellement un poste de chercheur dans une facult, une industrie ou un gouvernement.\nDoctorat et des publications sur l'apprentissage automatique, l'intelligence artificielle, l'informatique, les statistiques, les mathmatiques appliques, la science des donnes ou des domaines techniques connexes.\nExprience de la direction dune quipe dans la rsolution de problmes analytiques  laide dapproches quantitatives.\nExprience en manipulation et analyse de donnes provenant de diffrentes sources.\nRpondre  des questions avec la recherche\ncapacit  communiquer la recherche.\nConnaissances dans certains langages de programmation.\n\nPREFERRED \n1+ year(s) of work experience in within a university, industry, or government lab(s), in a role with primary emphasis on AI research.\nExperience driving original scholarship in collaboration with a team.\nFirst-author publications at peer-reviewed AI conferences (e.g. NIPS, CVPR, ICML, ICLR, ICCV, and ACL).\nExperience in developing and debugging in C/C++, Python, C# and/or Java.\nTraduction franaise -  prfres:\n1 an ou plus d'exprience de travail dans une universit, une industrie ou un laboratoire gouvernemental, dans un rle principalement ax sur la recherche sur l'IA.\nExprience de la conduite de la bourse originale en collaboration avec une quipe.\nPublications du premier auteur lors de confrences sur lIA examines par des pairs (par exemple NIPS, CVPR, ICML, ICLR, ICCV et ACL).\nExprience dans le dveloppement et le dbogage en C / C ++, Python, C # et / ou Java.",
+    "tokens": [
+      {
+        "text": "Ph.D.",
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "machine learning",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "AI",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "computer science",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "statistics",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "applied mathematics",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "data science",
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "1+ year(s)",
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "industry",
+        "entityLabel": "SKILLS"
+      }
+    ]
+  }
+]
