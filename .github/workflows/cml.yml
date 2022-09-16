@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: LLMs-Prompt-Engineering
 
 # Controls when the workflow will run
 on:
@@ -34,3 +34,13 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          #pip install -r requirements.txt
+          #python app.py
+          echo "## Model Metrics" > report.md
+          cat metrics.txt >> report.md
+          
+          echo "## Data viz" >>report.md
+          cml-publish feature_importance.png --md >> report.md
+          cml-publish residuals.png --md >> report.md
+          
+          cml-send-comment report.md
